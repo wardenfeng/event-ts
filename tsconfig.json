@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "declaration": true,
+        "outFile": "out/event.js"
+    },
+    "files": [ //注：如果有继承关系的，父类必须排在子类前面        
+        //事件模块
+        "src/me/feng3d/events/Event.ts",
+        "src/me/feng3d/events/IEventDispatcher.ts",
+        "src/me/feng3d/events/EventDispatcher.ts"
+    ]
+}
