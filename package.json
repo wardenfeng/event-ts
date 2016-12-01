@@ -1,0 +1,22 @@
+{
+  "name": "event-ts",
+  "version": "0.0.0",
+  "description": "Based on Typescript event system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wardenfeng/event-ts.git"
+  },
+  "keywords": [
+    "event"
+  ],
+  "author": "feng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wardenfeng/event-ts/issues"
+  },
+  "homepage": "https://github.com/wardenfeng/event-ts#readme"
+}
