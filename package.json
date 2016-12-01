@@ -1,6 +1,6 @@
 {
   "name": "event-ts",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Based on Typescript event system",
   "main": "index.js",
   "scripts": {
